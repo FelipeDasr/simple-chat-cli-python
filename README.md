@@ -1,2 +1,6 @@
-# conexoes-multiplas-socket-py
-Chat com várias conexões, usando sockets e threads em python
+# Chat CLI Python
+### Aceita conexões de vários clientes
+
+Feito usando:
+  - Socket
+  - Threadings
