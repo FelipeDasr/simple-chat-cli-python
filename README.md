@@ -5,4 +5,4 @@ Feito usando:
   - Socket
   - Threadings
 
-![CHAT IMAGE](https://raw.githubusercontent.com/FelipeDasr/conexoes-multiplas-socket-py/main/cap.PNG)
+![CHAT IMAGE](https://raw.githubusercontent.com/FelipeDasr/simple-chat-cli-python/main/Screenshot/screenshot.PNG)
